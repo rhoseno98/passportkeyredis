@@ -1,4 +1,6 @@
-# passportkeyredis
+# Passport Key Redis
+- php artisan:keys-redis
+
 Create the encryption keys for API authentication from redis storage
 
 # Require Package
